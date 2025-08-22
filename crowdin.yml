@@ -1,0 +1,3 @@
+files:
+  - source: changed_folder2/en.json
+    translation: changed_folder2/ja.json
