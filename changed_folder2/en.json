@@ -14,5 +14,10 @@
   "OF_LT_ENTITIES":"of LT Entities",
   "PLEASE_CONTACT_TO_UPGRADE_CAPACITY":"Please contact ask@diligencevault.com to upgrade capacity",
   "TAKE_ADVANTAGE_OF":"Take advantage of DiligenceVault's centralized content repo, user collaboration and a user friendly platform across all request types",
-  "REUSE_DOCUMENTS":"Reuse documents, trigger review workflows, maintain version history to minimize errors"
+  "REUSE_DOCUMENTS":"Reuse documents, trigger review workflows, maintain version history to minimize errors",
+  "last_1_month": "Last 1 month",
+  "last_3_months": "Last 3 months",
+  "last_6_months": "Last 6 months",
+  "last_1_year": "Last 1 year",
+  "clear_filter": "Clear filter",
 }
